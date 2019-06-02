@@ -1,5 +1,0 @@
-## Interface: 80100
-## Title: Autoexec
-## Notes-zhCN: 自己收藏整理的一些代码。
-## Author:yongshibing@hotmail.com
-Autoexec.lua
